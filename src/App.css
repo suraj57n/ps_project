@@ -1,0 +1,165 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+.mynav{
+  font-size: 1.5rem;
+}
+#he
+{
+  font-family:Montserrat-black;
+  font-size:3rem;
+ line-height:1.5;
+}
+#main{
+font-family:Montserrat-black;
+}
+#but
+{
+ text-align: center;
+}
+marquee {
+ font-size: 2rem;
+}
+
+h1{
+  font-family:Montserrat-black;
+  font-size:3rem;
+  line-height:1.5;
+  text-align: center;
+  background-color: white;
+}
+#ig
+{
+height: 250px;
+        /* padding-bottom: 1rem; */
+}
+#ad{
+text-align: right;
+border-style: solid;
+       /* border-color: #fff; */
+       /* padding-left: 20px;
+       padding-right: 10px; */
+}
+.but{
+  background-color: yellow;
+}
+#title{
+}
+h1{
+color:white;
+}
+#he
+{
+  font-family:Montserrat-black;
+  font-size:3rem;
+  line-height:1.5;
+  
+}
+#main{
+  background-color:#ff4c68;
+  font-family:Montserrat-black;
+  color:white
+}
+#but
+{
+  text-align: center;
+}
+marquee {
+  font-size: 2rem;
+}
+
+h1{
+color:white;
+}
+#he
+{
+  font-family:Montserrat-black;
+  font-size:3rem;
+  line-height:1.5;
+  
+}
+#main{
+  background-color:#ff4c68;
+  font-family:Montserrat-black;
+}
+#but
+{
+  text-align: center;
+}
+marquee {
+  font-size: 2rem;
+}
+.nav{
+  background: bg.jpeg;
+}
+#im{
+  height: 250px;
+}
+#st{
+  text-align: left;
+}
+
+#he
+{
+  font-family:Montserrat-black;
+  font-size:3rem;
+  line-height:1.5;
+}
+#main{
+font-family:Montserrat-black;
+
+}
+#but
+{
+  text-align: center;
+}
+marquee {
+  font-size: 2rem;
+}
+.nav{
+  background: bg.jpeg;
+}
+h1{
+  font-family:Montserrat-black;
+  font-size:3rem;
+  line-height:1.5;
+  text-align: center;
+  background-color: white;
+
+}
+
